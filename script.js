@@ -3,7 +3,7 @@ const cactus = document.getElementById("cactus");
 
 
 
-document.addEventListener("touchstart", function(event){
+document.addEventListener("click", function(event){
     jump();
 });
 
