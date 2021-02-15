@@ -20,7 +20,7 @@
     background-image: url(img/cactus.png);
     background-size: 10px 20px;
     position: relative;
-    top: 145px;
+    top: 140px;
     left: 580px;
     animation: cactusMov 2s infinite linear;
     
