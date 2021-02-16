@@ -40,7 +40,7 @@
 
 @keyframes jump {
     0% {
-        top: 150px;   
+        top: 100px;   
     }
     30% {
         top: 140px;   
