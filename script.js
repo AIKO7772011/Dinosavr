@@ -25,7 +25,7 @@ let isAlive = setInterval (function() {
 
     if (cactusLeft < 50 && cactusLeft > 0 && dinoTop >= 140) {
         //alert("простите но, вы проиграли!!!");
-        //console.log("prikosnovenie!!!");
+        console.log(cactusLeft);
     }
 
 })
