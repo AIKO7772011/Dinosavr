@@ -30,6 +30,3 @@ let isAlive = setInterval (function() {
 })
 
 
-
-    
-}
