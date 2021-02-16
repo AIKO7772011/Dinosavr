@@ -24,7 +24,7 @@ let isAlive = setInterval (function() {
     console.log(dinoTop);
 
     if (cactusLeft < 50 && cactusLeft > 0 && dinoTop >= 140) {
-        //alert("простите но, вы проиграли!!!");
+        alert("простите но, вы проиграли!!!");
         console.log(cactusLeft+"cactus");
     }
 
