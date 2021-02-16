@@ -30,16 +30,6 @@ let isAlive = setInterval (function() {
 })
 
 
-button.addEventListener('click', function(event){
-    jump1();
-});
 
-function jump1() {
-    if (dino.classList != "jump") {
-        dino.classList.add("jump")
-    }
-    setTimeout (function() {
-        dino.classList.remove("jump")
-    }, 300)
     
 }
