@@ -39,7 +39,7 @@ function jump() {
 
 
 let isAlive = setInterval (function() {
-    let dinoTop = parseInt(window.getComputedStyle(dino).getPropertyValue("top"));
+   // let dinoTop = parseInt(window.getComputedStyle(dino).getPropertyValue("top"));
     let cactusLeft = parseInt(window.getComputedStyle(cactus).getPropertyValue("left"));
     console.log(dinoTop);
 
